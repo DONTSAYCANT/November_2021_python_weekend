@@ -55,6 +55,27 @@ complex number
 palindrome
 anagram
 
+October 30:
+
+Task1:
+
+why string is called as global datatype
+
+
+Task2:
+
+create float ===> convert in to int str bool
+create int ==> conver in to float str bool
+create bool ===> convert in to float int str
+create str ===> convert in to int float bool
+
+#int float bool str
+
+a = 10.00001
+print(int(a))
+
+print(bool(a))
+
 
 
 
