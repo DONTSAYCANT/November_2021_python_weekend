@@ -347,3 +347,27 @@ print(Li1[2][2:4])
 Pre study topic:  Conditional statements in python
 
 
+
+November 20
+
+Task1:
+
+{1:["english","maths","science"], 2:[10,20,30], 3:["bio-botany","bio-zoology","Algebra"]}
+#Extract "bobtn" from above dictionary
+#Extract "arbeg" from above dictionary
+#print all keys in dictionary and convert it into tuple
+#Find the average of all numbers available under key "2"
+
+Task2:
+
+{"python":[1994,"interpreter","scripting","development",3], "java":[1992,"compiler","scripts","frontend/backend",10],"c":[1980,"core","scripting","Both",20]}
+
+#extract 3
+#Extract 1994
+#extract backend
+#split this "frontend/backend" with / and itentify index 0
+#extract core
+
+
+
+
